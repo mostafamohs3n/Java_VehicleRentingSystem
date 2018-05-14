@@ -1,8 +1,8 @@
 # Vehicle Renting System Project in Java
-# Technologies used:
-
+ Technologies used:
 ```Java, Java Swing, IntelliJ IDEA```
 
+# Project Description
 
 
 This project is about Vehicle Renting System Project whose objective is to make the vehicle
